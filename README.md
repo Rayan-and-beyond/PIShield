@@ -112,13 +112,10 @@ PIShield/
 
 ## 🎓 Academic context
 
-PIShield was developed for **CS 522: Selected Topics in Computer Science** at the College of Computer Science and Information Technology, Imam Abdulrahman bin Faisal University.
-
-**Team:** Mohammed Alghaith · Muhannad Almahmoud · Abdullah Aladwani · Omar Alnasser · Rayan Alhusennan · Sultan Alotaibi
+PIShield was developed for **CS 522: Selected Topics in Computer Science** at the College of Computer Science and Information Technology.
 
 📄 **[Read the project paper](docs/PIShield-Paper.pdf)**
 
-📊 **[Open the presentation](docs/Presentation.pptx)**
 
 <details>
 <summary><strong>⚠️ Scope & limitations</strong></summary>
